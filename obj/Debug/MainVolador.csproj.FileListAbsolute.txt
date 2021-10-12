@@ -1,0 +1,7 @@
+C:\Users\Marco Peñafort\source\repos\MainVolador\bin\Debug\MainVolador.exe.config
+C:\Users\Marco Peñafort\source\repos\MainVolador\bin\Debug\MainVolador.exe
+C:\Users\Marco Peñafort\source\repos\MainVolador\bin\Debug\MainVolador.pdb
+C:\Users\Marco Peñafort\source\repos\MainVolador\obj\Debug\MainVolador.csproj.AssemblyReference.cache
+C:\Users\Marco Peñafort\source\repos\MainVolador\obj\Debug\MainVolador.csproj.CoreCompileInputs.cache
+C:\Users\Marco Peñafort\source\repos\MainVolador\obj\Debug\MainVolador.exe
+C:\Users\Marco Peñafort\source\repos\MainVolador\obj\Debug\MainVolador.pdb
